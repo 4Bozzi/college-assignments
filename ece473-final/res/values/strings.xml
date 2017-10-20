@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">FOTB Monster PARTY!</string>
+	
+	
+
+	
+	
+
+	
+<string-array name="MonsterNames"><item>&quot;Brolax&quot;</item>
+<item>&quot;Frisbee&quot;</item>
+<item>&quot;Ultimate Frisbee&quot;</item>
+<item>&quot;Undergrod&quot;</item>
+<item>&quot;GrodStudant&quot;</item>
+<item>&quot;Profezzor&quot;</item>
+</string-array>
+
+
+
+<string name="OriginStory1">A long, long time ago at a house party far, far away... MONSTER PARTY! You and all your party animal friends were having the dopest kegger that a Tuesday night has ever seen...</string>
+<string name="OriginStory2">But the next morning you woke up on the floor, realizing that all your friends got lost on their epic trip to Baco Tsell the night before.  Now it is up to you to find all ya bros again.  Hurry, its 'why-not-Wednesday'!</string>
+</resources>
